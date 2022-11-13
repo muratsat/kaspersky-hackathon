@@ -16,11 +16,12 @@ RUN apt-get update && \
     apt-get upgrade && \
     apt-get --fix-broken install && \
     apt-get install -y \
+    git \
     vim \
     make \
     cmake \
-    mosquito \
-    mosquito-clients \
+    mosquitto \
+    mosquitto-clients \
     wget
 
 # install Kaspersky OS SDK
