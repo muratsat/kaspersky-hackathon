@@ -19,6 +19,8 @@ RUN apt-get update && \
     vim \
     make \
     cmake \
+    mosquito \
+    mosquito-clients \
     wget
 
 # install Kaspersky OS SDK
