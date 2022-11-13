@@ -4,7 +4,7 @@ This is a docker container that comes with Kaspersky-os-sdk
 
 # How to run
 
-1. Download kaspersky sdk from [here](https://ds.mai307.ru/s/CrM38T9X2LtABnZ/download/KasperskyOS-Community-Edition_1.1.0.356_amd64.deb) and save it in the same directory as the Dockerfile named `kaspersky-os-sdk.deb`
+1. Download kaspersky sdk from [here](https://ds.mai307.ru/s/CrM38T9X2LtABnZ/download/KasperskyOS-Community-Edition_1.1.0.356_amd64.deb) and save it in the same directory as the Dockerfile and rename it to `kaspersky-os-sdk.deb`
 
 2. Build docker image
 
