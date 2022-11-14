@@ -2,7 +2,7 @@
 
 Download and install special version of SDK KasperskyOS for the hackathon: [https://ds.mai307.ru/s/CrM38T9X2LtABnZ](https://ds.mai307.ru/s/CrM38T9X2LtABnZ.)
 
-We will use Docker container running Debian 10 for the hackathon. The image if build from [Dockerfile](./Dockerfile) and it comes with KasperskyOS SDK installed
+We will use Docker container running Debian 10 for the hackathon. The image is build from [Dockerfile](./Dockerfile) and it comes with KasperskyOS SDK installed
 
 ## Table of contents
 1. [Downloading Kaspersky sdk package](#Downloading_Package)
