@@ -60,8 +60,10 @@ RUN  apt-get install -y /tmp/KasperskyOS-Community-Edition_1.1.0.356_amd64.deb
 Once the image is built, you can run the container using the following command:
 
 ```bash
-docker run -dit --rm -v $(pwd)/workspace:/workspace kaspersky-os
+docker run -dit --rm -v $(pwd)/volume/workspace:/workspace -v $(pwd)/volume/root:/root kaspersky-os
 ```
+
+We are using -v option to mount the host directory to the container. The `volume/workspace` directory will be mounted to the `/workspace` directory in the container. The `volume/root` directory will be mounted to the `/root` directory in the container. The workspace directory will be used to store the source code of the project. The root directory will be used to store the user configuration files.
 
 The docker container is running in the background. To enter the container shell, you can use the following command:
 
