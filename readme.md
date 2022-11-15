@@ -1,5 +1,11 @@
 # Kaspersky hackathon 
 
+## Team MEMORY LEAK
+
+- [GaiusJuliusCaesar38](https://github.com/GaiusJuliusCaesar38)
+
+- [muratsat](https://github.com/muratsat)
+
 This is the repository for the Kaspersky hackathon qualification round.
 
 # [Task 1](./task1/readme.md)
