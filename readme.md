@@ -16,3 +16,7 @@ Download and install special version of SDK KasperskyOS for the hackathon: [http
 
 Develop and deploy a simple IoT application that prints "Hello from KasperskyOS" to the console.
 
+
+# [Task 3](./task3/readme.md)
+
+Build and execute mqtt_subscriber example from Kaspersky SDK
