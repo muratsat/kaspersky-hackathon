@@ -4,10 +4,13 @@ Task files structure
 
 ```
 .
-├── mosquitto.conf.me  - config file for mosquitto broker
+├── mosquitto.conf.me   - config file for mosquitto broker
 ├── mqtt_start
-│   └── pwfile         - password file for mosquitto broker
-└── mqtt_subscriber    - mqtt_subscriber example from SDK
+│   └── pwfile          - password file for mosquitto broker
+├── mqtt_subscriber     - mqtt_subscriber example from SDK
+│
+├── mqtt_subscriber.log - output of mqtt_subscriber/cross-build.sh 
+└── readme.md
 ```
 
 # Starting mosquitto broker
