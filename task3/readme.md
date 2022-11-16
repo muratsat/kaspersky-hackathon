@@ -29,7 +29,7 @@ Task files structure
 
 # Publishing a message with mosquitto_pub <a name="Publishing_a_message_with_mosquitto_pub"></a>
 
-![image](https://user-images.githubusercontent.com/51270744/202133220-41961012-3974-4250-b643-6324d636c028.png)
+![image](https://user-images.githubusercontent.com/51270744/202191033-610bfd22-7dbe-4c97-bc26-96e885c47943.png)
 
 After that we can see the message in our subscriber log:
 
